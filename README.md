@@ -39,8 +39,11 @@ Import the provided SQL file (shop_db.sql) into your database.
 Navigate to the connect.php file within the components folder and update the database credentials:
 
 $host = "localhost";
+
 $db_name = "your_database_name";
+
 $username = "your_username";
+
 $password = "your_password";
 
 **Deploy:**
@@ -147,7 +150,18 @@ Robust admin tools for managing user accounts, product details, inventory, order
 Seamless order processing and management, from verification to fulfillment and shipping.
 
 
-6. Contact
+6. Presentation
+
+To gain a deeper understanding of Couturely and its features, we have prepared two presentation videos. These videos provides an overview of the project, its functionalities, and how users can benefit from it. 
+
+[Watch the presentation video](https://youtu.be/9_FH2BA_LP4)
+
+[Watch the presentation video](https://youtu.be/RTJMSbuQj5w)
+
+Feel free to watch the video to get a visual walkthrough of Couturely!
+
+
+7. Contact
 
 For any inquiries or assistance, don't hesitate to reach out to our dedicated project maintainers:
 
